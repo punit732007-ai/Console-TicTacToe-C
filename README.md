@@ -59,11 +59,16 @@ Bypass Windows Warning: A blue screen may appear saying "Windows protected your 
 Click on "More info".
 
 Click "Run anyway" to start the game!
+💻 Source Code Access
+
+If you are a recruiter, developer, or enthusiast interested in viewing the full source code for this project, I would love to connect with you!
+
+Please feel free to reach out to me directly on LinkedIn to request access to the code, discuss the architecture, or talk about potential opportunities.
+
+👉 [LinkedIn](https://www.linkedin.com/in/punit-bhyan-a01492381?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 👨‍💻 Author
 
 Punit
 
 GitHub: @punit732007-ai
-
-[LinkedIn](https://www.linkedin.com/in/punit-bhyan-a01492381?utm_source=share_via&utm_content=profile&utm_medium=member_android)
